@@ -137,7 +137,7 @@ background-color: #404bbf;
         color: #434455;
 }
 .team {
-background-color:#FFFFFF;
+background-color: #F4F4FD;
 }
 
 .our-team {
@@ -154,7 +154,9 @@ background-color:#FFFFFF;
 background-color: #FFFFFF
 }
 
-
+.our-team-item {
+background-color: #FFFFFF
+}
 .our-team-item-title {
 
         font-weight: 500;
