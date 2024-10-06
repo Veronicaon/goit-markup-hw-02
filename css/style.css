@@ -3,10 +3,10 @@
 
 
 body {
-    font-family: "Roboto", system-ui;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     color: #434455;
-    background-color: #fff
+    background-color: #ffffff
 }
 /* Reset */
 
@@ -29,11 +29,11 @@ body {
 
 /* Header */
 .logo {
-    font-family: "Raleway", system-ui;
+     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
         text-transform: uppercase;
         color: #4d5ae5;
 }
@@ -99,6 +99,7 @@ body {
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #ffffff;
+        font-family: "Roboto", sans-serif
 }
 .hero-btn:hover, 
 .hero-btn:focus {
@@ -113,7 +114,7 @@ background-color: #404bbf;
 
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -148,6 +149,11 @@ background-color: #404bbf;
         color: #2e2f42;
         text-transform: capitalize
 }
+.our-team-list {
+background-color: #FFFFFF
+}
+
+
 .our-team-item-title {
 
         font-weight: 500;
